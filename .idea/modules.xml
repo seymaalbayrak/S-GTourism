@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/S&amp;GTourism.iml" filepath="$PROJECT_DIR$/.idea/modules/S&amp;GTourism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/S&amp;GTourism.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/S&amp;GTourism.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/S&amp;GTourism.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/S&amp;GTourism.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/S&amp;GTourism.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/S&amp;GTourism.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/S&amp;GTourism.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/S&amp;GTourism.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
